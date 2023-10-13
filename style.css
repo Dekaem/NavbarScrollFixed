@@ -1,0 +1,5 @@
+.sticky {
+    transition: all ease-in 0.5s;
+    position: fixed;
+    background-color: var(--black);
+}
